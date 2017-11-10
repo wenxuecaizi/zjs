@@ -1,0 +1,7 @@
+/*.project
+.settings
+/bos_management/.project
+/bos_management/bos_management_dao/.project
+/bos_management/bos_management_dao/.classpath
+target
+/bos_management/bos_management_service/*.classpath
